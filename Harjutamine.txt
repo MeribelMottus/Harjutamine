@@ -1,2 +1,2 @@
 GitHub on veebipõhine platvorm, mis pakub teenuseid tarkvaraarendajatele ja teistele projektide haldamiseks, koodi jagamiseks ja koostööks.
-GitHubis on saan salvestada ja muuta oma programmeerimisprojekte, jagada oma koodi teiste arendajatega ja ka õppida paljut
+GitHubis on saan salvestada ja muuta oma programmeerimisprojekte, jagada oma koodi teiste arendajatega ja ka õppida paljut.
